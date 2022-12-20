@@ -2699,4 +2699,9 @@ menu "Text editors and viewers"
 	source "package/vim/Config.in"
 endmenu
 
+menu "Hello package"
+	source "package/hello/Config.in"
+endmenu
+
+
 endmenu

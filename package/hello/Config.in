@@ -1,0 +1,9 @@
+config BR2_PACKAGE_HELLO
+	bool "hello"
+	help
+	  Hello package to demontrate adding package directly in source tree
+
+
+	  http://example.com
+
+
